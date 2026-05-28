@@ -1,5 +1,3 @@
-# This is AI capstone project IBM AI Engineering
-
 # Satellite Imagery Classification: CNN & ViT Hybrid
 
 ## Project Overview
